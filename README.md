@@ -1,13 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello, World!%20render&fontSize=90)
+<div align="center"> 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hello,+World!%20render&fontSize=90)
+
 <br/>
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+my+name+is+Seonghwi+Kim)](https://git.io/typing-svg)
+
 <br/>
+<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwihwihwi)](https://solved.ac/hwihwihwi/)
+
 <br/>
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwi-hwi-hwi&layout=compact)
+
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi-hwi-hwi)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
+</div>
 
 <!--
 **hwi-hwi-hwi/hwi-hwi-hwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
