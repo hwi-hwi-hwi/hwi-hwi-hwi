@@ -7,7 +7,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwihwihwi)](https://solved.ac/hwihwihwi/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hwihwihwi}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hwihwihwi&theme=dark)
 <br/>
 <br/>
 
