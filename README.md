@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={hwihwihwi}&theme=dark)
 
 <br/>
 <br/>
