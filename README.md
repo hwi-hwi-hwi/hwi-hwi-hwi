@@ -11,6 +11,10 @@
 <br/>
 <br/>
 
+[![hwi-hwi-hwi's github activity graph](https://activity-graph.herokuapp.com/graph?username=hwi-hwi-hwi&theme=monokai)](https://github.com/hwi-hwi-hwi/github-readme-activity-graph)
+
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwi-hwi-hwi&show_icons=true&theme=radical)
 
 <br/>
