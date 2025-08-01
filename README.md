@@ -11,7 +11,7 @@
 <br/>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={hwihwihwi}&theme=dark)
-
+<img src="http://mazandi.herokuapp.com/api?handle={hwihwihwi}&theme=dark"/>
 <br/>
 <br/>
 
